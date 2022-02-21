@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\Oscar Lam\Google Drive\Module\404 Projektarbeit\.metadata\.plugins\org.eclipse.jdt.core
+3846007522.index
